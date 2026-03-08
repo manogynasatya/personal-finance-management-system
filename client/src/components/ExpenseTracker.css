@@ -1,0 +1,51 @@
+.expense-tracker-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .chart-container {
+    margin-top: 20px;
+    width: 600px;
+    max-width: 100%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .analytics-section {
+    margin-bottom: 30px;
+  }
+  
+  .expense-table-container {
+    margin-top: 20px;
+    background: #f9f9f94d;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .expense-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .expense-table th, .expense-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .expense-table th {
+    background-color: #4c82af;
+    color: white;
+  }
+  
+  .expense-table tr:nth-child(even) {
+    background-color: #000000;
+  }
+  .expense-table tr:nth-child(odd) {
+    background-color: #000000;
+  }
+  
+  

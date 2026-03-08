@@ -1,0 +1,11 @@
+.app-header {
+    background-color: #2c0e5c; /* Green color to symbolize financial growth */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    border-bottom: 2px solid #2c0e5c; /* Slightly darker green for contrast */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
